@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tranquilpeak on Hugo tranquilpeak theme</title>
+    <link>https://mario.kaleidos.net/categories/tranquilpeak/</link>
+    <description>Recent content in Tranquilpeak on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mario.kaleidos.net/categories/tranquilpeak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cover image showcase</title>
+      <link>https://mario.kaleidos.net/posts/my-first-post/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mario.kaleidos.net/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

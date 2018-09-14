@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mario.kaleidos.net/pl/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mario.kaleidos.net/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://mario.kaleidos.net/pl/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mario.kaleidos.net/pl/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mario.kaleidos.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://mario.kaleidos.net/pl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mario.kaleidos.net/pl/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mario.kaleidos.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://mario.kaleidos.net/pl/tags/"
+                />
+  </url>
+  
+</urlset>
